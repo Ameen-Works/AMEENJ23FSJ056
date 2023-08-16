@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"basicClosedLabBook","c":"JavaDocTry","l":"JavaDocTry()","u":"%3Cinit%3E()"},{"p":"basicClosedLabBook","c":"JavaDocTry","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
